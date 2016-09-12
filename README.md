@@ -1,0 +1,2 @@
+# cpp-Programming-
+This program is to facilitate a carpentry business that makes furniture from untreated wood and sells these items of furniture potential customers. A customer that wants to buy a particular item can give the carpenter a measurement for that item that they would like to get a quote on, the carpenter in turn will enter the measurement supplied by the customer into the application where then the program will issue a quote to the customer.
